@@ -1,7 +1,7 @@
-# BMW GT3 Omarchy Theme
+# BMW M4 GT3 Omarchy Theme
 
-![BMW GT3 Omarchy Theme](preview.png)
+![BMW M4 GT3 Omarchy Theme](preview.png)
 
 ## Palette
 
-![BMW GT3 palette](palette.png)
+![BMW M4 GT3 palette](palette.png)
